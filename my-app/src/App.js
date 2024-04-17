@@ -1,9 +1,9 @@
 import "./App.css";
-import ControlledFormHooks from "./components/ControlledFormHooks";
+import UseEffectCounterContainer from "./components/UseEffectCounterContainer";
 
 function App() {
   return <div className="App">
-      <ControlledFormHooks />
+    <UseEffectCounterContainer />
   </div>;
 }
 
